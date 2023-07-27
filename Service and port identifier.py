@@ -1,10 +1,3 @@
-import pyfiglet
-  
-result = pyfiglet.figlet_format("Service And Port Identifier \
-BY \
-CS-COD3X")
-print(result)
-
 import socket
 
 while(True):
